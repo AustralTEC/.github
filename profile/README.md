@@ -63,13 +63,13 @@
 
 ## 🛠️ Stack
 
-<div align="center">
+**En común**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,php,laravel,python,flutter,dart&perline=12" alt="Lenguajes y frameworks" />
-<br />
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws,git,github,bash,vite,bootstrap,vscode&perline=11" alt="Bases de datos y herramientas" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
-</div>
+**Alejandro suma**
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" />
 
 ## 🚀 Proyectos destacados
 
@@ -81,21 +81,22 @@
 | [**library-postgresql-teclab**](https://github.com/aleoviedo071298/library-postgresql-teclab) | Base de datos de biblioteca con funciones PL/pgSQL, triggers y vistas | `PostgreSQL` `PL/pgSQL` | Ambos |
 | [**ventadefrutas-teclab**](https://github.com/luci060925/ventadefrutas-teclab) | Tienda de frutas: catálogo con `fetch()` desde JSON, carrito en localStorage y checkout | `JavaScript` `CSS` | Ambos |
 
-### 🔒 En desarrollo (repos privados)
+### 🏢 Proyectos para clientes
 
-- **ROOT** · Plataforma de pedidos y punto de venta para una cafetería de especialidad: el cliente escanea el QR de su mesa, arma y confirma su pedido, y el mostrador gestiona preparación, cobro, stock y cierre diario desde un solo panel. `Laravel 12` `React` `TypeScript` `MySQL` `Docker`
+- **ROOT** · Plataforma de pedidos y punto de venta para [Root Coffee](https://www.instagram.com/rootcoffee.ar/), cafetería de especialidad: el cliente escanea el QR de su mesa, arma y confirma su pedido, y el mostrador gestiona preparación, cobro, stock y cierre diario desde un solo panel. `Laravel 12` `React` `TypeScript` `MySQL` `Docker`
+
+### ⛽ Open source para Oil & Gas
+
+Aplicaciones de código abierto pensadas para la industria del petróleo y la energía.
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [**TermoVault**](https://github.com/aleoviedo071298/termovault) | Plataforma multi-tenant para gestionar inspecciones termográficas de instalaciones eléctricas en Oil & Gas y energía | `Laravel 12` `React` `TypeScript` `PostgreSQL` `AWS Cognito` |
+| [**AeroCheck**](https://github.com/aleoviedo071298/AeroCheck) | App móvil para pilotos de drones: clima, viento por altura, espacio aéreo e índice K en una sola vista previa al vuelo | `Flutter` `Dart` |
+
+### 🔒 En desarrollo (repo privado)
+
 - **Impulsa** · Red social que conecta emprendedores locales con una comunidad gamificada: reseñas, juegos y sorteos. `PHP` `Flutter` `PostgreSQL` `Redis`
-- **TermoVault** · Plataforma multi-tenant para gestionar informes de inspección termográfica en la industria Oil & Gas. `Laravel 12` `React` `PostgreSQL` `AWS Cognito`
-- **AeroCheck** · App para pilotos de drones: clima, viento por altura, espacio aéreo e índice K en una sola vista previa al vuelo. `Flutter`
-
-## 📊 Actividad
-
-<div align="center">
-
-<a href="https://github.com/aleoviedo071298"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleoviedo071298&layout=compact&hide_border=true&theme=transparent&title_color=2C5364&text_color=8b949e&langs_count=8" alt="Lenguajes de Alejandro" /></a>
-<a href="https://github.com/luci060925"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luci060925&layout=compact&hide_border=true&theme=transparent&title_color=2C5364&text_color=8b949e&langs_count=8" alt="Lenguajes de Luciana" /></a>
-
-</div>
 
 ## 🤝 Cómo trabajamos
 
