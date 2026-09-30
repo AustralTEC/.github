@@ -29,7 +29,7 @@
         <img src="https://github.com/aleoviedo071298.png" width="110" alt="Alejandro Oviedo" />
       </a>
       <h3>Alejandro Oviedo</h3>
-      <b>Junior Web Developer</b><br />
+      <b>Web Developer · Estudiante avanzado</b><br />
       <sub>Comodoro Rivadavia, Chubut</sub>
       <br /><br />
       Estudiante de UNER y Teclab. Foco en desarrollo web full-stack: HTML, CSS y JavaScript, más backend con Laravel, PHP y Node. Construye productos reales, desde plataformas de pedidos con QR hasta apps móviles.
