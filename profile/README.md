@@ -84,6 +84,7 @@
 ### 🏢 Proyectos para clientes
 
 - **ROOT** · Plataforma de pedidos y punto de venta para [Root Coffee](https://www.instagram.com/rootcoffee.ar/), cafetería de especialidad: el cliente escanea el QR de su mesa, arma y confirma su pedido, y el mostrador gestiona preparación, cobro, stock y cierre diario desde un solo panel. `Laravel 12` `React` `TypeScript` `MySQL` `Docker`
+- **ALOHA** · Tienda online y panel de administración para [Aloha Indumentaria](https://aloha-indumentaria.cr-tienda.workers.dev/), showroom de moda femenina en Comodoro Rivadavia: la clienta arma su bolsa, aplica un cupón y confirma el pedido por WhatsApp, y la dueña gestiona catálogo, pedidos, cupones y portada desde un solo panel. `React 19` `TypeScript` `Tailwind` `Supabase` `Cloudflare`
 
 ### ⛽ Open source para Oil & Gas
 
